@@ -1,0 +1,24 @@
+{
+  "name": "telegram-ehentai-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinofine/telegram-ehentai-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "ehentai",
+    "exhentai"
+  ],
+  "author": "Sinofine Lotusie",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Sinofine/telegram-ehentai-bot/issues"
+  },
+  "homepage": "https://github.com/Sinofine/telegram-ehentai-bot#readme"
+}
